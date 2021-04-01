@@ -1,0 +1,1 @@
+insert into `user` values (1, 'Sora.Liu', '18851822176', 'emptiness'), (1, 'emptiness', '18851822177', '123456')
